@@ -13,7 +13,34 @@
 Bienvenue dans l'espace commentaire du projet Serotine portée par l'association AurorAlpes.
 Vous pouvez retrouver ci-dessous, les commentaires associés aux différents numéros du webzine.
 
-Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub (il est possible de le faire à partir d'un compte Google) ainsi que d'autoriser l'[application giscus][giscus-app] à [publier en leur nom][authorization] en utilisant le flux OAuth de GitHub..
+Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub (il est possible de le faire à partir d'un compte Google) ainsi que d'autoriser l'[application giscus][giscus-app] à [publier en leur nom][authorization] en utilisant le flux OAuth de GitHub.
+
+simple 
+
+| ![alt](media/Sérotine1.jpg) | - [L'aphantasie](https://troy314.github.io/giscus/articles/aphantasie.html)
+|                               | - [Sudoku](https://troy314.github.io/Serotine/giscus/aphantasie_sudoku.html)
+|                               | - [Peut-on respirer par l'anus ?](https://troy314.github.io/Serotine/giscus/respirer_par_anus.html) 
+
+html
+
+<!-- Flexbox (fonctionne dans la plupart des renderers Markdown qui acceptent du HTML inline) -->
+<div style="display:flex; align-items:flex-start; gap:16px; max-width:100%;">
+  <!-- Colonne image (fixe / adaptative) -->
+  <div style="flex: 0 0 auto;">
+    <img src="media/Sérotine1.jpg" alt="Couverture du #1"
+         style="display:block; max-width:150px; height:auto; border-radius:6px;" />
+  </div>
+
+  <!-- Colonne texte (liste) -->
+  <div style="flex: 1 1 auto;">
+    <ul style="margin:0; padding-left:1.2em;">
+      <li><a href="https://troy314.github.io/giscus/articles/aphantasie.html" target="_blank">L'aphantasie</a></li>
+      <li><a href="https://troy314.github.io/Serotine/giscus/aphantasie_sudoku.html" target="_blank">Sudoku</a></li>
+      <li><a href="https://troy314.github.io/Serotine/giscus/respirer_par_anus.html" target="_blank">Peut-on respirer par l'anus ?</a></li>
+    </ul>
+  </div>
+</div>
+
 
 
 ## #1 Octobre 2025
