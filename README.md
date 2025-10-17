@@ -32,7 +32,7 @@ Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub
   <div style="flex: 1 1 auto;">
     <ul style="margin:0; padding-left:1.2em;">
       <li><a href="https://troy314.github.io/giscus/articles/aphantasie.html" target="_blank">L'aphantasie</a></li>
-      <li><a href="https://troy314.github.io/giscus/articles/aphantasie_sudoku.html" target="_blank">Ceci n'est pas un bouquet de fleurs (Sudoku)</a></li>
+      <li><a href="https://troy314.github.io/giscus/aphantasie_sudoku.html" target="_blank">Ceci n'est pas un bouquet de fleurs (Sudoku)</a></li>
       <li><a href="https://troy314.github.io/giscus/articles/respirer_par_anus.html" target="_blank">Peut-on respirer par l'anus ?</a></li>
     </ul>
   </div>
