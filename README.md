@@ -13,7 +13,7 @@
 Bienvenue dans l'espace commentaire du projet Serotine portée par l'association AurorAlpes.
 Vous pouvez retrouver ci-dessous, les commentaires associés aux différents numéros du webzine.
 
-Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub (il est possible de le faire à partir d'un compte Google).
+Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub (il est possible de le faire à partir d'un compte Google) ainsi que d'autoriser l'[application giscus][giscus-app] à [publier en leur nom][authorization] en utilisant le flux OAuth de GitHub..
 
 
 ## #1 Octobre 2025
@@ -28,6 +28,6 @@ Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub
 ## Crédits
 Pour plus d'information à propos de [giscus](About_giscus.md)
 
-Ce site est développé à partir du projet [utterances](https://github.com/utterance/utterances) développé par [jdanyow](https://github.com/jdanyow)
+Ce site est développé à partir du projet [giscus](https://github.com/giscus/giscus) développé par [laymonage](https://github.com/laymonage)
 
 
